@@ -18,6 +18,11 @@ HPCC Platform Development Teams-Wiki:
 
 <https://reedelsevier.sharepoint.com/:o:/r/sites/OG-HPCCPlatformTeam/SiteAssets/OG-HPCC%20Platform%20Team%20Notebook?d=wbadf11fdaa0145838b644423ace873c9&csf=1&web=1&e=auJI6x>
 
+or 
+
+[HPCC Developers Wiki](https://reedelsevier.sharepoint.com/:o:/r/sites/OG-HPCCPlatformTeam/SiteAssets/OG-HPCC%20Platform%20Team%20Notebook?d=wbadf11fdaa0145838b644423ace873c9&csf=1&web=1&e=8AvouV)
+
+
 ### Internal Link
 INTERNAL OPS: <eclwatch.risk.regn.net>
 
