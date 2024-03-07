@@ -13,7 +13,7 @@ ALSO CHECK OUT [DOCBOOK OFFICIAL SITE]: <https://docbook.org/>
 The Industry Standard Big Data Solution 
 <https://hpccsystems.com>
 
-# Internal Links
+# Developer Links
 HPCC Platform Development Teams-Wiki:
 
 <https://reedelsevier.sharepoint.com/:o:/r/sites/OG-HPCCPlatformTeam/SiteAssets/OG-HPCC%20Platform%20Team%20Notebook?d=wbadf11fdaa0145838b644423ace873c9&csf=1&web=1&e=auJI6x>
@@ -23,9 +23,9 @@ or
 [HPCC Developers Wiki](https://reedelsevier.sharepoint.com/:o:/r/sites/OG-HPCCPlatformTeam/SiteAssets/OG-HPCC%20Platform%20Team%20Notebook?d=wbadf11fdaa0145838b644423ace873c9&csf=1&web=1&e=8AvouV)
 
 
-### Internal Link
-INTERNAL OPS: <eclwatch.risk.regn.net>
-
+### Internal Links
+[INTERNAL OPS:] <eclwatch.risk.regn.net>
+[OPS: ECLWatch.Seisint] (http://eclwatch.seisint.com/)
  Note: I do not have access to this site any longer - ergo -  only authorized users can access 
 
-
+[HPCC Systems Community Sharepoint Site] (https://reedelsevier.sharepoint.com/:u:/r/sites/the_Link/HPCC/SitePages/Home.aspx?csf=1&web=1&e=ktxtBP)
