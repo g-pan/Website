@@ -22,11 +22,13 @@ or
 
 [HPCC Developers Wiki](https://reedelsevier.sharepoint.com/:o:/r/sites/OG-HPCCPlatformTeam/SiteAssets/OG-HPCC%20Platform%20Team%20Notebook?d=wbadf11fdaa0145838b644423ace873c9&csf=1&web=1&e=8AvouV)
 
-[HPCC Systems DevDocs] (https://g-pan.github.io/HPCC-Platform/devdoc/README.html)
+[HPCC Systems DevDocs](https://g-pan.github.io/HPCC-Platform/devdoc/README.html)
 
 ### Internal Links
-[INTERNAL OPS:] <eclwatch.risk.regn.net>
-[OPS: ECLWatch.Seisint] (http://eclwatch.seisint.com/)
+[INTERNAL OPS:]<eclwatch.risk.regn.net>
+[OPS: ECLWatch.Seisint](http://eclwatch.seisint.com/)
  Note: I do not have access to this site any longer - ergo -  only authorized users can access 
 
-[HPCC Systems Community Sharepoint Site] (https://reedelsevier.sharepoint.com/:u:/r/sites/the_Link/HPCC/SitePages/Home.aspx?csf=1&web=1&e=ktxtBP)
+[HPCC Systems Community Sharepoint Site](https://reedelsevier.sharepoint.com/:u:/r/sites/the_Link/HPCC/SitePages/Home.aspx?csf=1&web=1&e=ktxtBP)
+
+ADD MORE CONTENT AS APPROPRIATE.
