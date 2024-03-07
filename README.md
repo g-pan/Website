@@ -24,11 +24,15 @@ or
 
 [HPCC Systems DevDocs](https://g-pan.github.io/HPCC-Platform/devdoc/README.html)
 
-### Internal Links
-[INTERNAL OPS:]<eclwatch.risk.regn.net>
+### Internal OPS Links
+[INTERNAL OPS](https://eclwatch.risk.regn.net)
 [OPS: ECLWatch.Seisint](http://eclwatch.seisint.com/)
  Note: I do not have access to this site any longer - ergo -  only authorized users can access 
+[INTERNAL OPS] > <eclwatch.risk.regn.net>
+INTERNAL OPS PAGE III:  https://eclwatch.risk.regn.net
+INTERNAL OPS PAGE IV:  <https://eclwatch.risk.regn.net>
 
+### HPCC Systems Community:
 [HPCC Systems Community Sharepoint Site](https://reedelsevier.sharepoint.com/:u:/r/sites/the_Link/HPCC/SitePages/Home.aspx?csf=1&web=1&e=ktxtBP)
 
 ADD MORE CONTENT AS APPROPRIATE.
