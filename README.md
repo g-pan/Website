@@ -39,4 +39,7 @@ INTERNAL OPS PAGE IV:  <https://eclwatch.risk.regn.net>
 ### HPCC Systems Community:
 [HPCC Systems Community Sharepoint Site](https://reedelsevier.sharepoint.com/:u:/r/sites/the_Link/HPCC/SitePages/Home.aspx?csf=1&web=1&e=ktxtBP)
 
-ADD MORE CONTENT AS APPROPRIATE.
+[DEVELOPER VIDEOS](https://reedelsevier.sharepoint.com/:u:/r/sites/the_Link/HPCC/SitePages/Home.aspx?csf=1&web=1&e=qSxDyU)
+
+
+ADD MORE CONTENT AS APPROPRIATE. EOF***
